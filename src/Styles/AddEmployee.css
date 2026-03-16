@@ -1,0 +1,22 @@
+.add-container{
+  width:400px;
+  margin:auto;
+  margin-top:40px;
+}
+
+.add-form{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
+
+.add-form input{
+  padding:10px;
+}
+
+.add-form button{
+  padding:10px;
+  background:#2f80ed;
+  color:white;
+  border:none;
+}
