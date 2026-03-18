@@ -1,4 +1,4 @@
-git add .import { useState } from "react";
+import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import API from "../Services/Api";
 import "../Styles/Register.css";
